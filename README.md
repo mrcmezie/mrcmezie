@@ -1,16 +1,28 @@
-## Hi there 👋
+# Mezie Akabudu
 
-<!--
-**mrcmezie/mrcmezie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Systems & Product Engineer · Founder, Creed Consult**
 
-Here are some ideas to get you started:
+I build AI-enabled systems that turn research, data, models, and business workflows into usable products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is the work that makes an AI system useful beyond its first demo: context, memory, tool use, model routing, evaluation, recovery, and human control.
+
+## What I work on
+
+Agent workflows, memory and retrieval systems, research pipelines, document intelligence, and AI product development.
+
+## How I work
+
+- Separate observed results from assumptions.
+- Keep architecture, decisions, and handoffs inspectable.
+- Use AI heavily while keeping requirements and final validation explicit.
+- Describe prototypes as prototypes and test recovery paths alongside normal flows.
+
+## Selected work
+
+Public case studies and runnable demonstrations will be linked here after source verification and review. This draft does not assert completion of those assets.
+
+## Work with me
+
+[Creed Consult](https://creedconsult.org)
+
+Personal LinkedIn, Upwork, and portfolio links will be added when verified.
